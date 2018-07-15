@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 48ebc8d96b7c6474bb75f686838a4967
+timeCreated: 1527776432
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: cleo001_jpg
+    100002: cleo002_jpg
+    100004: cleo003_jpg
+    100006: cleo004_jpg
+    100008: cleo005_jpg
+    100010: cleo006_jpg
+    100012: cleo007_jpg
+    100014: cleo008_jpg
+    100016: cleo009_jpg
+    100018: cleo010_jpg
+    100020: cleo011_jpg
+    100022: cleo012_jpg
+    100024: cleo013_jpg
+    100026: cleo014_jpg
+    100028: cleo015_jpg
+    100030: cleo016_jpg
+    100032: cleo017_jpg
+    100034: cleo018_jpg
+    100036: cleo019_jpg
+    100038: cleo020_jpg
+    100040: cleo021_jpg
+    100042: cleo022_jpg
+    100044: cleo023_jpg
+    100046: cleo024_jpg
+    100048: cleo025_jpg
+    100050: cleo026_jpg
+    100052: cleo027_jpg
+    100054: cleo028_jpg
+    100056: cleo029_jpg
+    100058: cleo030_jpg
+    100060: cleo031_jpg
+    100062: cleo032_jpg
+    100064: cleo033_jpg
+    100066: cleo034_jpg
+    100068: //RootNode
+    100070: mainMeshNode
+    400000: cleo001_jpg
+    400002: cleo002_jpg
+    400004: cleo003_jpg
+    400006: cleo004_jpg
+    400008: cleo005_jpg
+    400010: cleo006_jpg
+    400012: cleo007_jpg
+    400014: cleo008_jpg
+    400016: cleo009_jpg
+    400018: cleo010_jpg
+    400020: cleo011_jpg
+    400022: cleo012_jpg
+    400024: cleo013_jpg
+    400026: cleo014_jpg
+    400028: cleo015_jpg
+    400030: cleo016_jpg
+    400032: cleo017_jpg
+    400034: cleo018_jpg
+    400036: cleo019_jpg
+    400038: cleo020_jpg
+    400040: cleo021_jpg
+    400042: cleo022_jpg
+    400044: cleo023_jpg
+    400046: cleo024_jpg
+    400048: cleo025_jpg
+    400050: cleo026_jpg
+    400052: cleo027_jpg
+    400054: cleo028_jpg
+    400056: cleo029_jpg
+    400058: cleo030_jpg
+    400060: cleo031_jpg
+    400062: cleo032_jpg
+    400064: cleo033_jpg
+    400066: cleo034_jpg
+    400068: //RootNode
+    400070: mainMeshNode
+    2000000: cleo001_jpg
+    2000002: cleo002_jpg
+    2000004: cleo003_jpg
+    2000006: cleo004_jpg
+    2000008: cleo005_jpg
+    2000010: cleo006_jpg
+    2000012: cleo007_jpg
+    2000014: cleo008_jpg
+    2000016: cleo009_jpg
+    2000018: cleo010_jpg
+    2000020: cleo011_jpg
+    2000022: cleo012_jpg
+    2000024: cleo013_jpg
+    2000026: cleo014_jpg
+    2000028: cleo015_jpg
+    2000030: cleo016_jpg
+    2000032: cleo017_jpg
+    2000034: cleo018_jpg
+    2000036: cleo019_jpg
+    2000038: cleo020_jpg
+    2000040: cleo021_jpg
+    2000042: cleo022_jpg
+    2000044: cleo023_jpg
+    2000046: cleo024_jpg
+    2000048: cleo025_jpg
+    2000050: cleo026_jpg
+    2000052: cleo027_jpg
+    2000054: cleo028_jpg
+    2000056: cleo029_jpg
+    2000058: cleo030_jpg
+    2000060: cleo031_jpg
+    2000062: cleo032_jpg
+    2000064: cleo033_jpg
+    2000066: cleo034_jpg
+    2100000: Material_0
+    2300000: mainMeshNode
+    3300000: mainMeshNode
+    4300000: mainMeshNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
